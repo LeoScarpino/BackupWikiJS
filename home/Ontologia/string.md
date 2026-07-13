@@ -1,13 +1,13 @@
 # string
 
 **URI:** `http://www.w3.org/2001/XMLSchema#string`  
-**Atualizado em:** 2026-06-18 22:42:15
+**Atualizado em:** 2026-07-13 11:55:02
 
-## Propriedades
+## Hierarquia
 
-| Propriedade | Valor |
-|-------------|-------|
-| `subClassOf` | [string](http://www.w3.org/2001/XMLSchema#string) |
+**Superclasses:** [string](http://www.w3.org/2001/XMLSchema#string)
+
+**Subclasses:** [string](http://www.w3.org/2001/XMLSchema#string)
 
 ---
 _Gerado automaticamente por [graphdb-to-github](../README.md)_
