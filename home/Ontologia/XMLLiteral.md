@@ -1,7 +1,7 @@
 # XMLLiteral
 
 **URI:** `http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral`
-**Atualizado em:** 2026-07-23 12:28:31
+**Atualizado em:** 2026-07-23 14:43:44
 
 ## Hierarquia
 
