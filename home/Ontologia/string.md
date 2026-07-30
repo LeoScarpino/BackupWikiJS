@@ -1,13 +1,17 @@
 # string
 
 **URI:** `http://www.w3.org/2001/XMLSchema#string`  
-**Atualizado em:** 2026-07-23 14:43:44
+**Atualizado em:** 2026-07-30 11:48:43
 
 ## Hierarquia
 
-**Superclasses:** [string](http://www.w3.org/2001/XMLSchema#string)
+**Superclasses**
 
-**Subclasses:** [string](http://www.w3.org/2001/XMLSchema#string)
+- string
+
+**Subclasses**
+
+- string
 
 ---
 _Gerado automaticamente por [graphdb-to-github](../README.md)_
