@@ -1,6 +1,6 @@
 # Índice de Conceitos
 
-_15 conceito(s) documentado(s) — gerado em 2026-08-09 20:02:31_
+_15 conceito(s) documentado(s) — gerado em 2026-08-09 20:02:37_
 
 ---
 
