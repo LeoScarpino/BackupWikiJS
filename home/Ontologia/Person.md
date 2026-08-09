@@ -1,7 +1,7 @@
 # Person
 
 **URI:** `http://xmlns.com/foaf/0.1/Person`  
-**Atualizado em:** 2026-08-09 19:39:43
+**Atualizado em:** 2026-08-09 20:01:16
 
 > A person.
 
@@ -10,7 +10,7 @@
 **Superclasses**
 
 - Spatial Thing
-- Agent
+- [Agent](Agent.md)
 
 ## Propriedades de Objeto
 
@@ -20,11 +20,11 @@
 
 **image** — `http://xmlns.com/foaf/0.1/img`
 
-- **Range:** Image
+- **Range:** [Image](Image.md)
 
 **knows** — `http://xmlns.com/foaf/0.1/knows`
 
-- **Range:** Person
+- **Range:** [Person](Person.md)
 
 **past project** — `http://xmlns.com/foaf/0.1/pastProject`
 
@@ -32,19 +32,19 @@
 
 **publications** — `http://xmlns.com/foaf/0.1/publications`
 
-- **Range:** Document
+- **Range:** [Document](Document.md)
 
 **schoolHomepage** — `http://xmlns.com/foaf/0.1/schoolHomepage`
 
-- **Range:** Document
+- **Range:** [Document](Document.md)
 
 **work info homepage** — `http://xmlns.com/foaf/0.1/workInfoHomepage`
 
-- **Range:** Document
+- **Range:** [Document](Document.md)
 
 **workplace homepage** — `http://xmlns.com/foaf/0.1/workplaceHomepage`
 
-- **Range:** Document
+- **Range:** [Document](Document.md)
 
 ## Propriedades de Dados
 
@@ -84,10 +84,9 @@
 
 **Classes Equivalentes**
 
-- http://schema.org/Person
-- http://www.w3.org/2000/10/swap/pim/contact#Person
+- Person
 
 **Classes Disjuntas**
 
-- http://xmlns.com/foaf/0.1/Organization
-- http://xmlns.com/foaf/0.1/Project
+- Project
+- Organization

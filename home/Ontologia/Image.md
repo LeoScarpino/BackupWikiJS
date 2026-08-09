@@ -1,7 +1,7 @@
 # Image
 
 **URI:** `http://xmlns.com/foaf/0.1/Image`  
-**Atualizado em:** 2026-08-09 19:39:43
+**Atualizado em:** 2026-08-09 20:01:16
 
 > An image.
 
@@ -9,7 +9,7 @@
 
 **Superclasses**
 
-- Document
+- [Document](Document.md)
 
 ## Propriedades de Objeto
 
@@ -19,10 +19,10 @@
 
 **thumbnail** — `http://xmlns.com/foaf/0.1/thumbnail`
 
-- **Range:** Image
+- **Range:** [Image](Image.md)
 
 ## Relações
 
 **Classes Equivalentes**
 
-- http://schema.org/ImageObject
+- ImageObject

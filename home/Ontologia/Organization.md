@@ -1,7 +1,7 @@
 # Organization
 
 **URI:** `http://xmlns.com/foaf/0.1/Organization`  
-**Atualizado em:** 2026-08-09 19:39:43
+**Atualizado em:** 2026-08-09 20:01:16
 
 > An organization.
 
@@ -9,11 +9,11 @@
 
 **Superclasses**
 
-- Agent
+- [Agent](Agent.md)
 
 ## Relações
 
 **Classes Disjuntas**
 
-- http://xmlns.com/foaf/0.1/Person
-- http://xmlns.com/foaf/0.1/Document
+- Document
+- Person
