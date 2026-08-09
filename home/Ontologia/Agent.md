@@ -1,26 +1,17 @@
 # Agent
 
 **URI:** `http://xmlns.com/foaf/0.1/Agent`  
-**Atualizado em:** 2026-07-31 11:52:16
+**Atualizado em:** 2026-08-09 19:39:43
 
 > An agent (eg. person, group, software or physical artifact).
 
 ## Hierarquia
 
-**Superclasses**
-
-- Agent
-- Agent
-
 **Subclasses**
 
-- Person
-- Person
-- Person
-- Agent
-- Organization
 - Group
-- Agent
+- Organization
+- Person
 
 ## Propriedades de Objeto
 
@@ -28,25 +19,13 @@
 
 - **Range:** Online Account
 
-**AIM chat ID** — `http://xmlns.com/foaf/0.1/aimChatID`
-
-- **Range:** Literal
-
 **account** — `http://xmlns.com/foaf/0.1/holdsAccount`
 
 - **Range:** Online Account
 
-**ICQ chat ID** — `http://xmlns.com/foaf/0.1/icqChatID`
-
-- **Range:** Literal
-
 **interest** — `http://xmlns.com/foaf/0.1/interest`
 
 - **Range:** Document
-
-**jabber ID** — `http://xmlns.com/foaf/0.1/jabberID`
-
-- **Range:** Literal
 
 **made** — `http://xmlns.com/foaf/0.1/made`
 
@@ -56,21 +35,9 @@
 
 - **Range:** Thing
 
-**sha1sum of a personal mailbox URI name** — `http://xmlns.com/foaf/0.1/mbox_sha1sum`
-
-- **Range:** Literal
-
-**MSN chat ID** — `http://xmlns.com/foaf/0.1/msnChatID`
-
-- **Range:** Literal
-
 **openid** — `http://xmlns.com/foaf/0.1/openid`
 
 - **Range:** Document
-
-**Skype ID** — `http://xmlns.com/foaf/0.1/skypeID`
-
-- **Range:** Literal
 
 **tipjar** — `http://xmlns.com/foaf/0.1/tipjar`
 
@@ -83,10 +50,6 @@
 **weblog** — `http://xmlns.com/foaf/0.1/weblog`
 
 - **Range:** Document
-
-**Yahoo chat ID** — `http://xmlns.com/foaf/0.1/yahooChatID`
-
-- **Range:** Literal
 
 ## Propriedades de Dados
 
@@ -138,21 +101,4 @@
 
 **Classes Equivalentes**
 
-- Agent
-- Agent
-
-**Conceitos Relacionados**
-
-| Conceito | Via Propriedade |
-|----------|-----------------|
-| Thing | `maker` |
-| Group | `member` |
-
-## Anotações
-
-| Propriedade | Valor |
-|-------------|-------|
-| `term_status` | stable |
-
----
-_Gerado automaticamente por [graphdb-to-github](../README.md)_
+- http://purl.org/dc/terms/Agent

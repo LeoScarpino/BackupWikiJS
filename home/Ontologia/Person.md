@@ -1,7 +1,7 @@
 # Person
 
 **URI:** `http://xmlns.com/foaf/0.1/Person`  
-**Atualizado em:** 2026-07-31 11:52:17
+**Atualizado em:** 2026-08-09 19:39:43
 
 > A person.
 
@@ -9,18 +9,8 @@
 
 **Superclasses**
 
-- Person
-- Person
-- Person
-- Agent
 - Spatial Thing
 - Agent
-
-**Subclasses**
-
-- Person
-- Person
-- Person
 
 ## Propriedades de Objeto
 
@@ -94,26 +84,10 @@
 
 **Classes Equivalentes**
 
-- Person
-- Person
-- Person
+- http://schema.org/Person
+- http://www.w3.org/2000/10/swap/pim/contact#Person
 
 **Classes Disjuntas**
 
-- Organization
-- Project
-
-**Conceitos Relacionados**
-
-| Conceito | Via Propriedade |
-|----------|-----------------|
-| Person | `knows` |
-
-## Anotações
-
-| Propriedade | Valor |
-|-------------|-------|
-| `term_status` | stable |
-
----
-_Gerado automaticamente por [graphdb-to-github](../README.md)_
+- http://xmlns.com/foaf/0.1/Organization
+- http://xmlns.com/foaf/0.1/Project

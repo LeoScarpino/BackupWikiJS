@@ -1,6 +1,6 @@
 # Índice de Conceitos
 
-_18 conceito(s) documentado(s) — gerado em 2026-07-31 11:52:17_
+_15 conceito(s) documentado(s) — gerado em 2026-08-09 19:39:43_
 
 ---
 
@@ -10,7 +10,7 @@ _18 conceito(s) documentado(s) — gerado em 2026-07-31 11:52:17_
 
 ## C
 
-- [Class](Class.md)
+- [Concept](Concept.md)
 
 ## D
 
@@ -27,10 +27,6 @@ _18 conceito(s) documentado(s) — gerado em 2026-07-31 11:52:17_
 ## L
 
 - [Label Property](Label_Property.md)
-
-## N
-
-- [nonNegativeInteger](nonNegativeInteger.md)
 
 ## O
 
@@ -49,11 +45,6 @@ _18 conceito(s) documentado(s) — gerado em 2026-07-31 11:52:17_
 ## S
 
 - [Spatial Thing](Spatial_Thing.md)
-- [string](string.md)
-
-## X
-
-- [XMLLiteral](XMLLiteral.md)
 
 ---
 _Gerado automaticamente por [graphdb-to-github](../README.md)_
