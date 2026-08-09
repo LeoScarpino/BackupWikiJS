@@ -1,7 +1,7 @@
 # Document
 
 **URI:** `http://xmlns.com/foaf/0.1/Document`  
-**Atualizado em:** 2026-08-09 20:02:37
+**Atualizado em:** 2026-08-09 20:59:02
 
 > A document.
 
@@ -36,5 +36,5 @@
 
 **Classes Disjuntas**
 
-- Project
 - Organization
+- Project

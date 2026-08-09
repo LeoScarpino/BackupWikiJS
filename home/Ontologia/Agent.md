@@ -1,7 +1,7 @@
 # Agent
 
 **URI:** `http://xmlns.com/foaf/0.1/Agent`  
-**Atualizado em:** 2026-08-09 20:01:16
+**Atualizado em:** 2026-08-09 20:59:02
 
 > An agent (eg. person, group, software or physical artifact).
 

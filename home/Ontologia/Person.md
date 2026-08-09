@@ -1,7 +1,7 @@
 # Person
 
 **URI:** `http://xmlns.com/foaf/0.1/Person`  
-**Atualizado em:** 2026-08-09 20:02:37
+**Atualizado em:** 2026-08-09 20:59:02
 
 > A person.
 
@@ -85,8 +85,9 @@
 **Classes Equivalentes**
 
 - Person
+- Person
 
 **Classes Disjuntas**
 
+- [Organization](Organization.md)
 - Project
-- Organization
