@@ -1,8 +1,6 @@
 # Online Account
 
 **URI:** `http://xmlns.com/foaf/0.1/OnlineAccount`  
-**Atualizado em:** 2026-08-09 21:43:10
-
 > An online account.
 
 ## Hierarquia

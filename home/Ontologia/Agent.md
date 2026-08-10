@@ -1,8 +1,6 @@
 # Agent
 
 **URI:** `http://xmlns.com/foaf/0.1/Agent`  
-**Atualizado em:** 2026-08-09 21:43:10
-
 > An agent (eg. person, group, software or physical artifact).
 
 ## Hierarquia

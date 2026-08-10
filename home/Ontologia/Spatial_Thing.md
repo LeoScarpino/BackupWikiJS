@@ -1,8 +1,6 @@
 # Spatial Thing
 
 **URI:** `http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing`  
-**Atualizado em:** 2026-08-09 21:43:10
-
 ## Hierarquia
 
 **Subclasses**
