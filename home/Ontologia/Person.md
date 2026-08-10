@@ -1,7 +1,7 @@
 # Person
 
 **URI:** `http://xmlns.com/foaf/0.1/Person`  
-**Atualizado em:** 2026-08-09 20:59:32
+**Atualizado em:** 2026-08-09 21:32:38
 
 > A person.
 
@@ -9,7 +9,7 @@
 
 **Superclasses**
 
-- Spatial Thing
+- [Spatial Thing](Spatial_Thing.md)
 - [Agent](Agent.md)
 
 ## Propriedades de Objeto
@@ -89,5 +89,5 @@
 
 **Classes Disjuntas**
 
-- Project
 - [Organization](Organization.md)
+- [Project](Project.md)
