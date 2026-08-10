@@ -11,4 +11,4 @@
 
 **based near** — `http://xmlns.com/foaf/0.1/based_near`
 
-- **Range:** [Spatial Thing](Spatial_Thing.md)
+- **Aponta para:** [Spatial Thing](Spatial_Thing.md)

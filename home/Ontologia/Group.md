@@ -13,4 +13,4 @@
 
 **member** — `http://xmlns.com/foaf/0.1/member`
 
-- **Range:** [Agent](Agent.md)
+- **Aponta para:** [Agent](Agent.md)

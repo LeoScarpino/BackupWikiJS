@@ -15,85 +15,85 @@
 
 **account** — `http://xmlns.com/foaf/0.1/account`
 
-- **Range:** [Online Account](Online_Account.md)
+- **Aponta para:** [Online Account](Online_Account.md)
 
 **account** — `http://xmlns.com/foaf/0.1/holdsAccount`
 
-- **Range:** [Online Account](Online_Account.md)
+- **Aponta para:** [Online Account](Online_Account.md)
 
 **interest** — `http://xmlns.com/foaf/0.1/interest`
 
-- **Range:** [Document](Document.md)
+- **Aponta para:** [Document](Document.md)
 
 **made** — `http://xmlns.com/foaf/0.1/made`
 
-- **Range:** Thing
+- **Aponta para:** Thing
 
 **personal mailbox** — `http://xmlns.com/foaf/0.1/mbox`
 
-- **Range:** Thing
+- **Aponta para:** Thing
 
 **openid** — `http://xmlns.com/foaf/0.1/openid`
 
-- **Range:** [Document](Document.md)
+- **Aponta para:** [Document](Document.md)
 
 **tipjar** — `http://xmlns.com/foaf/0.1/tipjar`
 
-- **Range:** [Document](Document.md)
+- **Aponta para:** [Document](Document.md)
 
 **topic_interest** — `http://xmlns.com/foaf/0.1/topic_interest`
 
-- **Range:** Thing
+- **Aponta para:** Thing
 
 **weblog** — `http://xmlns.com/foaf/0.1/weblog`
 
-- **Range:** [Document](Document.md)
+- **Aponta para:** [Document](Document.md)
 
 ## Propriedades de Dados
 
 **age** — `http://xmlns.com/foaf/0.1/age`
 
-- **Tipo:** Literal
+- **Tipo de dado:** Literal
 
 **AIM chat ID** — `http://xmlns.com/foaf/0.1/aimChatID`
 
-- **Tipo:** Literal
+- **Tipo de dado:** Literal
 
 **birthday** — `http://xmlns.com/foaf/0.1/birthday`
 
-- **Tipo:** Literal
+- **Tipo de dado:** Literal
 
 **gender** — `http://xmlns.com/foaf/0.1/gender`
 
-- **Tipo:** Literal
+- **Tipo de dado:** Literal
 
 **ICQ chat ID** — `http://xmlns.com/foaf/0.1/icqChatID`
 
-- **Tipo:** Literal
+- **Tipo de dado:** Literal
 
 **jabber ID** — `http://xmlns.com/foaf/0.1/jabberID`
 
-- **Tipo:** Literal
+- **Tipo de dado:** Literal
 
 **sha1sum of a personal mailbox URI name** — `http://xmlns.com/foaf/0.1/mbox_sha1sum`
 
-- **Tipo:** Literal
+- **Tipo de dado:** Literal
 
 **MSN chat ID** — `http://xmlns.com/foaf/0.1/msnChatID`
 
-- **Tipo:** Literal
+- **Tipo de dado:** Literal
 
 **Skype ID** — `http://xmlns.com/foaf/0.1/skypeID`
 
-- **Tipo:** Literal
+- **Tipo de dado:** Literal
 
 **status** — `http://xmlns.com/foaf/0.1/status`
 
-- **Tipo:** Literal
+- **Tipo de dado:** Literal
 
 **Yahoo chat ID** — `http://xmlns.com/foaf/0.1/yahooChatID`
 
-- **Tipo:** Literal
+- **Tipo de dado:** Literal
 
 ## Relações
 

@@ -13,11 +13,11 @@
 
 **depicts** — `http://xmlns.com/foaf/0.1/depicts`
 
-- **Range:** Thing
+- **Aponta para:** Thing
 
 **thumbnail** — `http://xmlns.com/foaf/0.1/thumbnail`
 
-- **Range:** [Image](Image.md)
+- **Aponta para:** [Image](Image.md)
 
 ## Relações
 

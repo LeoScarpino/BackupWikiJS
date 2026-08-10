@@ -14,17 +14,17 @@
 
 **primary topic** — `http://xmlns.com/foaf/0.1/primaryTopic`
 
-- **Range:** Thing
+- **Aponta para:** Thing
 
 **topic** — `http://xmlns.com/foaf/0.1/topic`
 
-- **Range:** Thing
+- **Aponta para:** Thing
 
 ## Propriedades de Dados
 
 **sha1sum (hex)** — `http://xmlns.com/foaf/0.1/sha1`
 
-- **Tipo:** _não especificado_
+- **Tipo de dado:** _não especificado_
 
 ## Relações
 
@@ -34,5 +34,5 @@
 
 **Classes Disjuntas**
 
-- [Organization](Organization.md)
 - [Project](Project.md)
+- [Organization](Organization.md)

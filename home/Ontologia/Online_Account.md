@@ -15,10 +15,10 @@
 
 **account service homepage** — `http://xmlns.com/foaf/0.1/accountServiceHomepage`
 
-- **Range:** [Document](Document.md)
+- **Aponta para:** [Document](Document.md)
 
 ## Propriedades de Dados
 
 **account name** — `http://xmlns.com/foaf/0.1/accountName`
 
-- **Tipo:** Literal
+- **Tipo de dado:** Literal

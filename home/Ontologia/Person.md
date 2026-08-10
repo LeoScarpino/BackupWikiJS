@@ -14,69 +14,69 @@
 
 **current project** — `http://xmlns.com/foaf/0.1/currentProject`
 
-- **Range:** Thing
+- **Aponta para:** Thing
 
 **image** — `http://xmlns.com/foaf/0.1/img`
 
-- **Range:** [Image](Image.md)
+- **Aponta para:** [Image](Image.md)
 
 **knows** — `http://xmlns.com/foaf/0.1/knows`
 
-- **Range:** [Person](Person.md)
+- **Aponta para:** [Person](Person.md)
 
 **past project** — `http://xmlns.com/foaf/0.1/pastProject`
 
-- **Range:** Thing
+- **Aponta para:** Thing
 
 **publications** — `http://xmlns.com/foaf/0.1/publications`
 
-- **Range:** [Document](Document.md)
+- **Aponta para:** [Document](Document.md)
 
 **schoolHomepage** — `http://xmlns.com/foaf/0.1/schoolHomepage`
 
-- **Range:** [Document](Document.md)
+- **Aponta para:** [Document](Document.md)
 
 **work info homepage** — `http://xmlns.com/foaf/0.1/workInfoHomepage`
 
-- **Range:** [Document](Document.md)
+- **Aponta para:** [Document](Document.md)
 
 **workplace homepage** — `http://xmlns.com/foaf/0.1/workplaceHomepage`
 
-- **Range:** [Document](Document.md)
+- **Aponta para:** [Document](Document.md)
 
 ## Propriedades de Dados
 
 **familyName** — `http://xmlns.com/foaf/0.1/familyName`
 
-- **Tipo:** Literal
+- **Tipo de dado:** Literal
 
 **family_name** — `http://xmlns.com/foaf/0.1/family_name`
 
-- **Tipo:** Literal
+- **Tipo de dado:** Literal
 
 **firstName** — `http://xmlns.com/foaf/0.1/firstName`
 
-- **Tipo:** Literal
+- **Tipo de dado:** Literal
 
 **geekcode** — `http://xmlns.com/foaf/0.1/geekcode`
 
-- **Tipo:** Literal
+- **Tipo de dado:** Literal
 
 **lastName** — `http://xmlns.com/foaf/0.1/lastName`
 
-- **Tipo:** Literal
+- **Tipo de dado:** Literal
 
 **myersBriggs** — `http://xmlns.com/foaf/0.1/myersBriggs`
 
-- **Tipo:** Literal
+- **Tipo de dado:** Literal
 
 **plan** — `http://xmlns.com/foaf/0.1/plan`
 
-- **Tipo:** Literal
+- **Tipo de dado:** Literal
 
 **Surname** — `http://xmlns.com/foaf/0.1/surname`
 
-- **Tipo:** Literal
+- **Tipo de dado:** Literal
 
 ## Relações
 
@@ -87,5 +87,5 @@
 
 **Classes Disjuntas**
 
-- [Project](Project.md)
 - [Organization](Organization.md)
+- [Project](Project.md)

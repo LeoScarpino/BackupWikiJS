@@ -5,4 +5,4 @@
 
 **focus** — `http://xmlns.com/foaf/0.1/focus`
 
-- **Range:** Thing
+- **Aponta para:** Thing
