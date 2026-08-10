@@ -1,7 +1,7 @@
 # Organization
 
 **URI:** `http://xmlns.com/foaf/0.1/Organization`  
-**Atualizado em:** 2026-08-09 21:35:07
+**Atualizado em:** 2026-08-09 21:35:24
 
 > An organization.
 
@@ -15,5 +15,5 @@
 
 **Classes Disjuntas**
 
-- [Person](Person.md)
 - [Document](Document.md)
+- [Person](Person.md)
