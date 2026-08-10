@@ -1,8 +1,6 @@
 # Document
 
 **URI:** `http://xmlns.com/foaf/0.1/Document`  
-**Atualizado em:** 2026-08-09 21:46:27
-
 > A document.
 
 ## Hierarquia
@@ -36,5 +34,5 @@
 
 **Classes Disjuntas**
 
-- [Project](Project.md)
 - [Organization](Organization.md)
+- [Project](Project.md)
