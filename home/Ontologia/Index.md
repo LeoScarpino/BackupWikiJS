@@ -1,6 +1,6 @@
 # Índice de Conceitos
 
-_15 conceito(s) documentado(s)
+15 conceito(s) documentado(s)
 
 ---
 
