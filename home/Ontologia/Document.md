@@ -1,7 +1,7 @@
 # Document
 
 **URI:** `http://xmlns.com/foaf/0.1/Document`  
-**Atualizado em:** 2026-08-09 20:59:32
+**Atualizado em:** 2026-08-09 21:31:47
 
 > A document.
 
@@ -9,8 +9,8 @@
 
 **Subclasses**
 
-- Image
-- PersonalProfileDocument
+- [Image](Image.md)
+- [PersonalProfileDocument](PersonalProfileDocument.md)
 
 ## Propriedades de Objeto
 
@@ -36,5 +36,5 @@
 
 **Classes Disjuntas**
 
-- Project
-- Organization
+- [Organization](Organization.md)
+- [Project](Project.md)
