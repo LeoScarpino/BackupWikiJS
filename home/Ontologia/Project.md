@@ -1,7 +1,7 @@
 # Project
 
 **URI:** `http://xmlns.com/foaf/0.1/Project`  
-**Atualizado em:** 2026-08-09 21:34:59
+**Atualizado em:** 2026-08-09 21:35:07
 
 > A project (a collective endeavour of some kind).
 
@@ -9,5 +9,5 @@
 
 **Classes Disjuntas**
 
-- [Document](Document.md)
 - [Person](Person.md)
+- [Document](Document.md)
