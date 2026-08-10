@@ -1,7 +1,7 @@
 # Image
 
 **URI:** `http://xmlns.com/foaf/0.1/Image`  
-**Atualizado em:** 2026-08-09 20:59:02
+**Atualizado em:** 2026-08-09 21:43:10
 
 > An image.
 

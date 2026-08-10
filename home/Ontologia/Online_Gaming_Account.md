@@ -1,7 +1,7 @@
 # Online Gaming Account
 
 **URI:** `http://xmlns.com/foaf/0.1/OnlineGamingAccount`  
-**Atualizado em:** 2026-08-09 19:39:43
+**Atualizado em:** 2026-08-09 21:43:10
 
 > An online gaming account.
 
@@ -9,4 +9,4 @@
 
 **Superclasses**
 
-- Online Account
+- [Online Account](Online_Account.md)

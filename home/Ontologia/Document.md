@@ -1,7 +1,7 @@
 # Document
 
 **URI:** `http://xmlns.com/foaf/0.1/Document`  
-**Atualizado em:** 2026-08-09 21:35:56
+**Atualizado em:** 2026-08-09 21:43:10
 
 > A document.
 

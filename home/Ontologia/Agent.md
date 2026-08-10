@@ -1,7 +1,7 @@
 # Agent
 
 **URI:** `http://xmlns.com/foaf/0.1/Agent`  
-**Atualizado em:** 2026-08-09 20:59:02
+**Atualizado em:** 2026-08-09 21:43:10
 
 > An agent (eg. person, group, software or physical artifact).
 
@@ -9,23 +9,23 @@
 
 **Subclasses**
 
-- Group
-- Organization
-- Person
+- [Group](Group.md)
+- [Organization](Organization.md)
+- [Person](Person.md)
 
 ## Propriedades de Objeto
 
 **account** — `http://xmlns.com/foaf/0.1/account`
 
-- **Range:** Online Account
+- **Range:** [Online Account](Online_Account.md)
 
 **account** — `http://xmlns.com/foaf/0.1/holdsAccount`
 
-- **Range:** Online Account
+- **Range:** [Online Account](Online_Account.md)
 
 **interest** — `http://xmlns.com/foaf/0.1/interest`
 
-- **Range:** Document
+- **Range:** [Document](Document.md)
 
 **made** — `http://xmlns.com/foaf/0.1/made`
 
@@ -37,11 +37,11 @@
 
 **openid** — `http://xmlns.com/foaf/0.1/openid`
 
-- **Range:** Document
+- **Range:** [Document](Document.md)
 
 **tipjar** — `http://xmlns.com/foaf/0.1/tipjar`
 
-- **Range:** Document
+- **Range:** [Document](Document.md)
 
 **topic_interest** — `http://xmlns.com/foaf/0.1/topic_interest`
 
@@ -49,7 +49,7 @@
 
 **weblog** — `http://xmlns.com/foaf/0.1/weblog`
 
-- **Range:** Document
+- **Range:** [Document](Document.md)
 
 ## Propriedades de Dados
 

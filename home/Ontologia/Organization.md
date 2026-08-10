@@ -1,7 +1,7 @@
 # Organization
 
 **URI:** `http://xmlns.com/foaf/0.1/Organization`  
-**Atualizado em:** 2026-08-09 21:35:24
+**Atualizado em:** 2026-08-09 21:43:10
 
 > An organization.
 

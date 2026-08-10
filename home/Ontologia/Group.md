@@ -1,7 +1,7 @@
 # Group
 
 **URI:** `http://xmlns.com/foaf/0.1/Group`  
-**Atualizado em:** 2026-08-09 19:39:43
+**Atualizado em:** 2026-08-09 21:43:10
 
 > A class of Agents.
 
@@ -9,10 +9,10 @@
 
 **Superclasses**
 
-- Agent
+- [Agent](Agent.md)
 
 ## Propriedades de Objeto
 
 **member** — `http://xmlns.com/foaf/0.1/member`
 
-- **Range:** Agent
+- **Range:** [Agent](Agent.md)

@@ -1,7 +1,7 @@
 # PersonalProfileDocument
 
 **URI:** `http://xmlns.com/foaf/0.1/PersonalProfileDocument`  
-**Atualizado em:** 2026-08-09 19:39:43
+**Atualizado em:** 2026-08-09 21:43:10
 
 > A personal profile RDF document.
 
@@ -9,4 +9,4 @@
 
 **Superclasses**
 
-- Document
+- [Document](Document.md)

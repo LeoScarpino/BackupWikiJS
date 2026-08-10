@@ -1,7 +1,7 @@
 # Person
 
 **URI:** `http://xmlns.com/foaf/0.1/Person`  
-**Atualizado em:** 2026-08-09 21:39:50
+**Atualizado em:** 2026-08-09 21:43:10
 
 > A person.
 
