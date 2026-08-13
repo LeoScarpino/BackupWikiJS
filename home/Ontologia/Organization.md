@@ -13,5 +13,5 @@
 
 **Classes Disjuntas**
 
-- [Document](Document.md)
 - [Person](Person.md)
+- [Document](Document.md)
