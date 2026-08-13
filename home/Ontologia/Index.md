@@ -47,4 +47,3 @@
 - [Spatial Thing](Spatial_Thing.md)
 
 ---
-_Gerado automaticamente por [graphdb-to-github](../README.md)_
