@@ -87,5 +87,5 @@
 
 **Classes Disjuntas**
 
-- [Organization](Organization.md)
 - [Project](Project.md)
+- [Organization](Organization.md)
